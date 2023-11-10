@@ -1,2 +1,2 @@
 # AI-Study
-AI Learning Record
+Self study AI records.
