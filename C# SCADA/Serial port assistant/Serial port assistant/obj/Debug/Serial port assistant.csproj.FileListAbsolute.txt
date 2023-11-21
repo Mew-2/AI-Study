@@ -1,0 +1,11 @@
+D:\Winform_Project\Serial port assistant\Serial port assistant\bin\Debug\Serial port assistant.exe.config
+D:\Winform_Project\Serial port assistant\Serial port assistant\bin\Debug\Serial port assistant.exe
+D:\Winform_Project\Serial port assistant\Serial port assistant\bin\Debug\Serial port assistant.pdb
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial port assistant.csproj.AssemblyReference.cache
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial_port_assistant.Properties.Resources.resources
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial port assistant.csproj.GenerateResource.cache
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial port assistant.csproj.CoreCompileInputs.cache
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial port assistant.exe
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial port assistant.pdb
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial_port_assistant.FormSerialPortTool.resources
+D:\Winform_Project\Serial port assistant\Serial port assistant\obj\Debug\Serial_port_assistant.Child_Window.resources
